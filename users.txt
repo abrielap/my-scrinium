@@ -1,2 +1,0 @@
-user@example.com;password123;John Doe;2024-08-08
-contato.hiss@gmail.com;172839;Mie;2024-08-08
